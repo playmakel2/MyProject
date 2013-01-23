@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0a502a8289f7b465e541eecd1fb8ccdc$ -->
+<TextureAtlas imagePath="aaaa.png">
+    <SubTexture name="Tank100percent" x="2" y="2" width="1021" height="559"/>
+</TextureAtlas>
