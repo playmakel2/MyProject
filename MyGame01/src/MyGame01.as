@@ -6,7 +6,7 @@ package
 	{
 		public function MyGame01()
 		{
-			
+			trace("Test GitHub");
 		}
 	}
 }
